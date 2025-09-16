@@ -1,3 +1,6 @@
+/*This project is a User Management System developed using JSP, JDBC, and MySQL. It provides a complete CRUD (Create, Read, Update, Delete) functionality where users can be added, updated, viewed, and deleted with attributes such as Name, Email, Gender, and Age. The application demonstrates integration of JSP for dynamic web interfaces, JDBC for secure database connectivity, and MySQL as the backend. It also includes user-friendly features like confirmation prompts, styled forms, and tabular display of records, making it a simple yet effective demonstration of Java-based full-stack web development.*/
+
+
 <%@ page import="java.sql.*" %>
 <html>
 <head>
@@ -217,3 +220,4 @@
 
 </body>
 </html>
+
